@@ -1,7 +1,7 @@
 # KickstarterAnalysis
 Kickstarter campaign analysis in Microsoft Excel - with graphs
 
-##Three conclusions that I cane to when thinking about Kickstarter campaigns given the provided data:
+## Three conclusions that I cane to when thinking about Kickstarter campaigns given the provided data:
 
 ```
 a. It appears as though there were more campaigns that started in the spring and summertime,
@@ -11,12 +11,12 @@ b. There was a higher chance of success when asking for smaller amounts of money
 c. Overall, campaigns involving theater - specifically plays - were the most popular and showed the
 highest rate of success.
 ```
-##Limitations of this dataset:
+## Limitations of this dataset:
 
 It doesn’t show the marketing budget or exposure created by the campaign starters, so it could lead to a
 false idea or expectation of success/failure based solely on the general information provided.
 
-##Other possible tables/graphs that I'd like to add:
+## Other possible tables/graphs that I'd like to add:
 
 I would like to create a chart showing the overall asking amount for theater projects to see if they had
 lower values overall, thus increasing their chance of success over other categories. At the moment, it
