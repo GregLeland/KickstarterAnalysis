@@ -1,16 +1,17 @@
 # KickstarterAnalysis
 Kickstarter campaign analysis in Microsoft Excel - with graphs
 
-## Three conclusions that I cane to when thinking about Kickstarter campaigns given the provided data:
+## Three conclusions that I came to when thinking about Kickstarter campaigns given the provided data:
 
-```
 a. It appears as though there were more campaigns that started in the spring and summertime,
 and there was a steady decline of campaigns after the summer and rising again towards the
 holiday season at the end of the year.
+
 b. There was a higher chance of success when asking for smaller amounts of money.
+
 c. Overall, campaigns involving theater - specifically plays - were the most popular and showed the
 highest rate of success.
-```
+
 ## Limitations of this dataset:
 
 It doesn’t show the marketing budget or exposure created by the campaign starters, so it could lead to a
